@@ -7,3 +7,5 @@ ReactDOM.render(
 
 ,document.getElementById('react-app-root')
 )
+
+//https://www.joshmorony.com/create-native-html5-games-with-phaser-and-capacitor/
